@@ -22,3 +22,5 @@
   - pip install -r requirements.txt
   ##### To run the project
   - python run.py
+
+Co-Authors: Arindam Ray and Aman Bahal
